@@ -1,0 +1,5 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - snowflake-snowpark-python=1.16.0
