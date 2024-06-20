@@ -2,4 +2,5 @@ name: app_environment
 channels:
   - snowflake
 dependencies:
+  - pandas=2.2.1
   - snowflake-snowpark-python=1.16.0
